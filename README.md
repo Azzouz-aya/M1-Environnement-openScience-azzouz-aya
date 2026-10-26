@@ -12,3 +12,7 @@ Découverte du développement collaboratif, du versionnement et la reproductibil
 
 ##Thème
 Annalyse de données environnement 
+##Données environnementales peuvent concerner la température, les précipitations, la qualité de l'air, la qualité de l'eau ou la bodiversité. 
+
+##Intérêt de l'open Source 
+Les outils open source facilitent le partage, la collaboration et la reproductibilité des travaux scientifiques 
