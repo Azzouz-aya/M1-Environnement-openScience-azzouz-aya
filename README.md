@@ -1,4 +1,4 @@
-# M1-Environnement-openScience-azzouz-aya
+### M1-Environnement-openScience-azzouz-aya
 #projet open science-M1 Environnement 
 ##Étudiant
 Nom: Azzouz, Benhedid
@@ -15,4 +15,8 @@ Annalyse de données environnement
 ##Données environnementales peuvent concerner la température, les précipitations, la qualité de l'air, la qualité de l'eau ou la bodiversité. 
 
 ##Intérêt de l'open Source 
-Les outils open source facilitent le partage, la collaboration et la reproductibilité des travaux scientifiques 
+Les outils open source facilitent le partage, la collaboration et la reproductibilité des travaux scientifiques
+##Données environnementales 
+Les données environnementales peuvent concerner la température, les précipitations, la qualité de l'air, la qualité de l'eau ou la biodiversité 
+##Intérêt de open Source 
+Les outils Open Source facilitent le partage, la collaboration et la reproductibilité des travaux scientifique. 
